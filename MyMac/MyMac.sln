@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMAC.API", "MyMAC.API\MyMAC.API.csproj", "{2BB80BF8-05BB-45FD-ACFB-AF35B0BECFC1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMac.DAL", "MyMac.DAL\MyMac.DAL.csproj", "{74CFCA33-E81F-4AF4-A825-C330C439C29B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB80BF8-05BB-45FD-ACFB-AF35B0BECFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB80BF8-05BB-45FD-ACFB-AF35B0BECFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB80BF8-05BB-45FD-ACFB-AF35B0BECFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB80BF8-05BB-45FD-ACFB-AF35B0BECFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CFCA33-E81F-4AF4-A825-C330C439C29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CFCA33-E81F-4AF4-A825-C330C439C29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CFCA33-E81F-4AF4-A825-C330C439C29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CFCA33-E81F-4AF4-A825-C330C439C29B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C75013-01A0-4A81-8544-63EEE9BD5BBD}
+	EndGlobalSection
+EndGlobal
